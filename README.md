@@ -11,7 +11,7 @@ But, if pressed, how do we prove it?
 ![](Images/Image1.png)
 
 **Part I - WeatherPy**
-In this example, I be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized a few Python libraries, the OpenWeatherMap API,and a representative model of weather across world cities.
+In this example, I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized a few Python libraries, the OpenWeatherMap API,and a representative model of weather across world cities.
 
 First objective wass to build a series of scatter plots to showcase the following relationships:
 
